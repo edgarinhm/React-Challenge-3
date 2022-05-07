@@ -21,3 +21,6 @@ In this Codesandbox, you have a complete environment with all you need to run yo
 Notes:
 
 - CardItem component receives (name: string, sprite: string)
+
+## URL
+ https://z7pcy2.csb.app/
